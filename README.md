@@ -1,10 +1,3 @@
- _   _ _____ _____ 
-| \ | |  ___|_   _|
-|  \| | |_    | |  
-| |\  |  _|   | |  
-|_| \_|_|     |_|  
-
-
 # Season NFT
 
 A simple ERC721 NFT deployed using IPFS and OpenZeppelin. This NFT dynamically switches between seasons and uses SVG for a more decentralized approach.
